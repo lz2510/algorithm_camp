@@ -24,6 +24,15 @@
 | --- | --- | --- | --- |
 |169|Easy|[Majority Element](https://leetcode.com/problems/majority-element/)|[Majority Element](week_2/169_majority-element)|
 
+## problems DynamicProgramming
+| NO | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|64|Medium|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Minimum Path Sum](week_3/64_minimum-path-sum)|
+|91|Medium|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Decode Ways](week_3/91_decode-ways)|
+|221|Medium|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Maximal Square](week_3/221_maximal-square)|
+|621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
+|647|Medium|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](week_3/647_palindromic-substrings)|
+
 ## problems Others
 | NO | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
