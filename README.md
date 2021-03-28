@@ -12,4 +12,19 @@
 | --- | --- | --- | --- |
 |21|Easy|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Merge Two Sorted Lists](week_1/21_merge-two-sorted-lists)|
 
+## problems Backtracking
+| NO | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|46|Medium|[Permutations](https://leetcode.com/problems/permutations/)|[Permutations](week_2/46_permutations)|
+|77|Medium|[Combinations](https://leetcode.com/problems/combinations/)|[Permutations](week_2/77_combinations)|
+|78|Medium|[Subsets](https://leetcode.com/problems/subsets/)|[Subsets](week_2/78_subsets)|
 
+## problems HashMap
+| NO | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|169|Easy|[Majority Element](https://leetcode.com/problems/majority-element/)|[Majority Element](week_2/169_majority-element)|
+
+## problems Others
+| NO | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|860|Easy|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Lemonade Change](week_2/860_emonade-change)|
