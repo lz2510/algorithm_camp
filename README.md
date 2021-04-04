@@ -66,8 +66,20 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |64|Medium|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Minimum Path Sum](week_3/64_minimum-path-sum)|
+|70|Easy|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Minimum Path Sum](week_4/70_climbing-stairs)|
 |91|Medium|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Decode Ways](week_3/91_decode-ways)|
 |221|Medium|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Maximal Square](week_3/221_maximal-square)|
 |621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
 |647|Medium|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](week_3/647_palindromic-substrings)|
 
+## Trier
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|208|Medium|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](week_4/208_implement-trie-prefix-tree)|
+
+## Bit Operation
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|190|Easy|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Reverse Bits](week_4/190_reverse-bits)|
+|191|Easy|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Number of 1 Bits](week_4/191_number-of-1-bits)|
+|231|Easy|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Power of Two](week_4/231_power-of-two)|
