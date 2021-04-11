@@ -95,7 +95,6 @@
 ## Recrusion
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
-|122|Easy|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](leetcode/122_best-time-to-buy-and-sell-stock-ii)|
 |344|Easy|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Reverse String](leetcode/334_reverse-string)|
 
 ## DynamicProgramming
@@ -105,6 +104,8 @@
 |64|Medium|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Minimum Path Sum](week_3/64_minimum-path-sum)|
 |70|Easy|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Minimum Path Sum](week_4/70_climbing-stairs)|
 |91|Medium|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Decode Ways](week_3/91_decode-ways)|
+|121|Easy|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](leetcode/121_best-time-to-buy-and-sell-stock)|
+|122|Easy|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](leetcode/122_best-time-to-buy-and-sell-stock-ii)|
 |198|Medium|[House Robber](https://leetcode.com/problems/house-robber/)|[House Robber](leetcode/198_house-robber)|
 |221|Medium|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Maximal Square](week_3/221_maximal-square)|
 |621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
