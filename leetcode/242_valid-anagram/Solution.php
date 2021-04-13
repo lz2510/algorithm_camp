@@ -9,6 +9,7 @@ class Solution {
 	 * @return Boolean
 	 */
 	function isAnagram($s, $t) {
+                #counting sort
 		$strLenS = strlen($s);
 		$strLenT = strlen($t);
 		if($strLenS != $strLenT) return false;
