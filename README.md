@@ -54,10 +54,14 @@
 |136|Easy|[Single Number](https://leetcode.com/problems/single-number/)|[Single Number](leetcode/136_single-number)|
 |169|Easy|[Majority Element](https://leetcode.com/problems/majority-element/)|[Majority Element](week_2/169_majority-element)|
 |217|Easy|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Contains Duplicate](leetcode/217_contains-duplicate)|
-|242|Easy|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Valid Anagram](leetcode/242_valid-anagram)|
 |349|Easy|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Intersection of Two Arrays](leetcode/349_intersection-of-two-arrays)|
 |705|Easy|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Design HashSet](leetcode/705_design-hashset)|
 |706|Easy|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Design HashMap](leetcode/706_design-hashmap)|
+
+## Sort
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|242|Easy|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Valid Anagram](leetcode/242_valid-anagram)|
 
 ## BinaryTree
 | NO. | Difficulty | Title | Answer |
