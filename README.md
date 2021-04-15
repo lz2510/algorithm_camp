@@ -43,7 +43,7 @@
 | --- | --- | --- | --- |
 |622|Medium|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Design Circular Queue](leetcode/622_design-circular-queue)|
 
-## Others
+## Greedy 
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |860|Easy|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Lemonade Change](week_2/860_emonade-change)|
