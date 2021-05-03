@@ -68,13 +68,13 @@
 | --- | --- | --- | --- |
 |94|Medium|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Binary Tree Inorder Traversal](leetcode/94_binary-tree-inorder-traversal)|
 |102|Medium|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Binary Tree Level Order Traversal](leetcode/102_binary-tree-level-order-traversal)|
+|144|Medium|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Binary Tree Preorder Traversal](leetcode/144_binary-tree-preorder-traversal)|
+|145|Medium|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Binary Tree Postorder Traversal](leetcode/145_binary-tree-postorder-traversal)|
 
 ## BinarySearchTree
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |98|Medium|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Validate Binary Search Tree](leetcode/98_validate-binary-search-tree)|
-|144|Medium|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Binary Tree Preorder Traversal](leetcode/144_binary-tree-preorder-traversal)|
-|145|Medium|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Binary Tree Postorder Traversal](leetcode/145_binary-tree-postorder-traversal)|
 
 ## BinarySearch
 | NO. | Difficulty | Title | Answer |
