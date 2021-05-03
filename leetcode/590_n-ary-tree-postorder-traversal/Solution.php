@@ -19,12 +19,12 @@ class Solution {
 	 * @return integer[]
 	 */
 	function postorder($root,$result = []) {
-		if($root !== null){
-			foreach($root->children as $child){
-				$result = $this->postorder($child,$result);
-			}
-			$result[] = $root->val;
+		if($root === null) return $result;
+		foreach($root->children as $child){
+			$result = $this->postorder($child,$result);
 		}
+		$result[] = $root->val;
+
 		return $result;
 	}
 }

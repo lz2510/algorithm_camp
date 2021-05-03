@@ -1,6 +1,5 @@
 <?php
 
-
 /**
  * Definition for a Node.
  * class Node {
@@ -19,12 +18,12 @@ class Solution {
 	 * @return integer[]
 	 */
 	function preorder($root,$result = []) {
-		if($root !== null){
-			$result[] = $root->val;
-			foreach($root->children as $child){
-				$result = $this->preorder($child,$result);
-			}
+		if($root === null) return $result;
+		$result[] = $root->val;
+		foreach($root->children as $child){
+			$result = $this->preorder($child,$result);
 		}
+
 		return $result;
 	}
 }
