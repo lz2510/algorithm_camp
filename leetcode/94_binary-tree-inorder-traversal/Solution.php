@@ -15,10 +15,32 @@
 class Solution {
 
 	/**
+	 * recrusion with helper function
 	 * @param TreeNode $root
 	 * @return Integer[]
 	 */
 	function inorderTraversal($root) {
+		$res = array();
+		$this->helper($root,$res);
+		return $res;
+	}
+
+	function helper($root, &$res){
+		if(!$root){
+			return;
+		}
+
+		$this->helper($root->left,$res);
+		$res[] = $root->val;
+		$this->helper($root->right,$res);
+	}
+
+	/**
+	 * Recrusion without helper function
+	 * @param TreeNode $root
+	 * @return Integer[]
+	 */
+	function inorderTraversalMethod2($root) {
 		if(!$root->val){
 			return [];
 		}

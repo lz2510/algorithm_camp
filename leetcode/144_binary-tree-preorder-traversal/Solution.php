@@ -17,10 +17,32 @@
 class Solution {
 
 	/**
+	 * recrusion with helper function
 	 * @param TreeNode $root
 	 * @return Integer[]
 	 */
 	function preorderTraversal($root) {
+		$res = array();
+		$this->helper($root,$res);
+		return $res;
+	}
+
+	function helper($root, &$res){
+		if(!$root){
+			return;
+		}
+
+		$res[] = $root->val;
+		$this->helper($root->left,$res);
+		$this->helper($root->right,$res);
+	}
+
+	/**
+	 * Iterations
+	 * @param TreeNode $root
+	 * @return Integer[]
+	 */
+	function preorderTraversalMethod2($root) {
 		$node = $root;
 		$nodes = [];
 		$res = [];

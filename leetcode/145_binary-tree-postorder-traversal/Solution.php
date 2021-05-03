@@ -17,6 +17,7 @@
 class Solution {
 
 	/**
+	 * recrusion with helper function
 	 * @param TreeNode $root
 	 * @return Integer[]
 	 */
@@ -33,7 +34,7 @@ class Solution {
 
 		$this->helper($root->left,$res);
 		$this->helper($root->right,$res);
-		array_push($res,$root->val);
+		$res[] = $root->val;
 	}
 
 }
