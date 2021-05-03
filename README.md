@@ -71,6 +71,12 @@
 |144|Medium|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Binary Tree Preorder Traversal](leetcode/144_binary-tree-preorder-traversal)|
 |145|Medium|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Binary Tree Postorder Traversal](leetcode/145_binary-tree-postorder-traversal)|
 
+## N-ary tree
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|589|Easy|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[N-ary Tree Postorder Traversal](leetcode/589_n-ary-tree-preorder-traversal)|
+|590|Easy|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[N-ary Tree Postorder Traversal](leetcode/590_n-ary-tree-postorder-traversal)|
+
 ## BinarySearchTree
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
@@ -119,12 +125,6 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |208|Medium|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](week_4/208_implement-trie-prefix-tree)|
-
-## N-ary tree
-| NO. | Difficulty | Title | Answer |
-| --- | --- | --- | --- |
-|589|Easy|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[N-ary Tree Postorder Traversal](leetcode/589_n-ary-tree-preorder-traversal)|
-|590|Easy|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[N-ary Tree Postorder Traversal](leetcode/590_n-ary-tree-postorder-traversal)|
 
 ## Bit Operation
 | NO. | Difficulty | Title | Answer |
