@@ -41,7 +41,7 @@
 ## Queue
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
-|239|Hard|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Design Circular Queue](leetcode/239_sliding-window-maximum)|
+|239|Hard|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Sliding Window Maximum](leetcode/239_sliding-window-maximum)|
 |622|Medium|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Design Circular Queue](leetcode/622_design-circular-queue)|
 
 ## Greedy 
