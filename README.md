@@ -35,6 +35,7 @@
 ## Stack
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
+|20|Easy|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Valid Parentheses](leetcode/20_valid-parentheses)|
 |155|Easy|[Min Stack](https://leetcode.com/problems/min-stack/)|[Min Stack](leetcode/155_min-stack)|
 |917|Easy|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Reverse Only Letters](leetcode/917_everse-only-letters)|
 
@@ -108,6 +109,16 @@
 | --- | --- | --- | --- |
 |344|Easy|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Reverse String](leetcode/334_reverse-string)|
 
+## DFS
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|200|Medium|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Number of Islands](leetcode/200_number-of-islands)|
+
+## BFS
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|127|Hard|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Word Ladder](leetcode/127_word-ladder)|
+
 ## DynamicProgramming
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
@@ -119,6 +130,7 @@
 |122|Easy|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](leetcode/122_best-time-to-buy-and-sell-stock-ii)|
 |198|Medium|[House Robber](https://leetcode.com/problems/house-robber/)|[House Robber](leetcode/198_house-robber)|
 |221|Medium|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Maximal Square](week_3/221_maximal-square)|
+|322|Medium|[Coin Change](https://leetcode.com/problems/coin-change/)|[Coin Change](leetcode/322_coin-change)|
 |621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
 |647|Medium|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](week_3/647_palindromic-substrings)|
 
@@ -126,6 +138,11 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |208|Medium|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](week_4/208_implement-trie-prefix-tree)|
+
+## Graph
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|210|Medium|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Course Schedule II](leetcode/210_course-schedule-ii)|
 
 ## Bit Operation
 | NO. | Difficulty | Title | Answer |
