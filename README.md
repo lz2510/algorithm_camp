@@ -4,9 +4,11 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |151|Medium|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Reverse Words in a String](week_5/151_reverse-words-in-a-string)|
+|205|Easy|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Isomorphic Strings](leetcode/205_isomorphic-strings)|
 |387|Easy|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[First Unique Character in a String](week_5/387_first-unique-character-in-a-string)|
 |541|Easy|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Reverse String II](week_5/541_everse-string-ii)|
 |557|Easy|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Reverse Words in a String III](week_5/557_reverse-words-in-a-string-iii)|
+|680|Easy|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Valid Palindrome II](leetcode/680_valid-palindrome-ii)|
 
 ## Array
 | NO. | Difficulty | Title | Answer |
@@ -59,6 +61,7 @@
 |349|Easy|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Intersection of Two Arrays](leetcode/349_intersection-of-two-arrays)|
 |705|Easy|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Design HashSet](leetcode/705_design-hashset)|
 |706|Easy|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Design HashMap](leetcode/706_design-hashmap)|
+|709|Easy|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[To Lower Case](leetcode/709_to-lower-case)|
 
 ## Sort
 | NO. | Difficulty | Title | Answer |
@@ -113,6 +116,7 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |200|Medium|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Number of Islands](leetcode/200_number-of-islands)|
+|212|Hard|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Word Search II](leetcode/212_word-search-ii)|
 
 ## BFS
 | NO. | Difficulty | Title | Answer |
@@ -133,11 +137,17 @@
 |322|Medium|[Coin Change](https://leetcode.com/problems/coin-change/)|[Coin Change](leetcode/322_coin-change)|
 |621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
 |647|Medium|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](week_3/647_palindromic-substrings)|
+|1143|Medium|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Longest Common Subsequence](leetcode/1143_longest-common-subsequence)|
 
 ## Trier
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |208|Medium|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](week_4/208_implement-trie-prefix-tree)|
+
+## Heap
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|347|Medium|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Top K Frequent Elements](leetcode/347_top-k-frequent-elements)|
 
 ## Graph
 | NO. | Difficulty | Title | Answer |
@@ -150,3 +160,18 @@
 |190|Easy|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Reverse Bits](week_4/190_reverse-bits)|
 |191|Easy|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Number of 1 Bits](week_4/191_number-of-1-bits)|
 |231|Easy|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Power of Two](week_4/231_power-of-two)|
+
+## LRU
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|146|Medium|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[LRU Cache](leetcode/146_lru-cache)|
+
+## Union Find
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|547|Medium|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Number of Provinces](leetcode/547_number-of-provinces)|
+
+## Backtracking
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|22|Medium|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](leetcode/22_generate-parentheses)|
