@@ -128,7 +128,7 @@
 | --- | --- | --- | --- |
 |62|Medium|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Unique Paths](leetcode/62_unique-paths)|
 |64|Medium|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Minimum Path Sum](week_3/64_minimum-path-sum)|
-|70|Easy|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Minimum Path Sum](week_4/70_climbing-stairs)|
+|70|Easy|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Climbing Stairs](week_4/70_climbing-stairs)|
 |91|Medium|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Decode Ways](week_3/91_decode-ways)|
 |121|Easy|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](leetcode/121_best-time-to-buy-and-sell-stock)|
 |122|Easy|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](leetcode/122_best-time-to-buy-and-sell-stock-ii)|
