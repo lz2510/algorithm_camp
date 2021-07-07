@@ -27,3 +27,5 @@ class Solution
 		return $dp[strlen($s)];
 	}
 }
+//explain $dp[0] = 1
+//https://leetcode.com/problems/decode-ways/discuss/30358/Java-clean-DP-solution-with-explanation
