@@ -103,6 +103,7 @@
 ## Backtracking
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
+|22|Medium|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](leetcode/22_generate-parentheses)|
 |46|Medium|[Permutations](https://leetcode.com/problems/permutations/)|[Permutations](week_2/46_permutations)|
 |77|Medium|[Combinations](https://leetcode.com/problems/combinations/)|[Permutations](week_2/77_combinations)|
 |78|Medium|[Subsets](https://leetcode.com/problems/subsets/)|[Subsets](week_2/78_subsets)|
@@ -170,8 +171,3 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |547|Medium|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Number of Provinces](leetcode/547_number-of-provinces)|
-
-## Backtracking
-| NO. | Difficulty | Title | Answer |
-| --- | --- | --- | --- |
-|22|Medium|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](leetcode/22_generate-parentheses)|
