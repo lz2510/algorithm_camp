@@ -22,7 +22,7 @@
 |485|Easy|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Max Consecutive Ones](leetcode/485_max-consecutive-ones)|
 |724|Easy|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Find Pivot Index](leetcode/724_find-pivot-index)|
 |977|Easy|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares of a Sorted Array](leetcode/977_squares-of-a-sorted-array)|
-|1089|Easy|[Duplicate Zeros](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Duplicate Zeros](leetcode/1089_duplicate-zeros)|
+|1089|Easy|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Duplicate Zeros](leetcode/1089_duplicate-zeros)|
 |1122|Easy|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Relative Sort Array](week_5/1122_relative-sort-array)|
 |1295|Easy|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Find Numbers with Even Number of Digits](leetcode/1295_find-numbers-with-even-number-of-digits)|
 
