@@ -3,6 +3,9 @@
 ## String
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
+|14|Easy|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Longest Common Prefix](leetcode/14_longest-common-prefix)|
+|58|Easy|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Length of Last Word](leetcode/58_length-of-last-word)|
+|125|Easy|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|
 |151|Medium|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Reverse Words in a String](week_5/151_reverse-words-in-a-string)|
 |205|Easy|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Isomorphic Strings](leetcode/205_isomorphic-strings)|
 |387|Easy|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[First Unique Character in a String](week_5/387_first-unique-character-in-a-string)|
@@ -15,12 +18,15 @@
 | --- | --- | --- | --- |
 |1|Easy|[Two Sum](https://leetcode.com/problems/two-sum/)|[Two Sum](week_1/1_two-sum)|
 |26|Easy|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Remove Duplicates from Sorted Array](week_1/26_remove-duplicates-from-sorted-array)|
+|36|Medium|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
+|54|Medium|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|
 |66|Easy|[Plus One](https://leetcode.com/problems/plus-one/)|[Plus One](leetcode/66_plus-one)|
 |88|Easy|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Merge Sorted Array](week_1/88_merge-sorted-array)|
 |189|Medium|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Rotate Array](week_1/189_rotate-array)|
 |283|Easy|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Move Zeroes](leetcode/283_move-zeroes)|
 |485|Easy|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Max Consecutive Ones](leetcode/485_max-consecutive-ones)|
 |724|Easy|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Find Pivot Index](leetcode/724_find-pivot-index)|
+|937|Easy|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|
 |977|Easy|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares of a Sorted Array](leetcode/977_squares-of-a-sorted-array)|
 |1089|Easy|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Duplicate Zeros](leetcode/1089_duplicate-zeros)|
 |1122|Easy|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Relative Sort Array](week_5/1122_relative-sort-array)|
@@ -32,6 +38,7 @@
 |21|Easy|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Merge Two Sorted Lists](week_1/21_merge-two-sorted-lists)|
 |24|Medium|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Swap Nodes in Pairs](leetcode/24_swap-nodes-in-pairs)|
 |141|Easy|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Linked List Cycle](leetcode/141_linked-list-cycle)|
+|206|Easy|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|
 |707|Medium|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Design Linked List](leetcode/707_design-linked-list)|
 
 ## Stack
@@ -55,13 +62,17 @@
 ## Hash
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
+|49|Easy|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|
 |136|Easy|[Single Number](https://leetcode.com/problems/single-number/)|[Single Number](leetcode/136_single-number)|
 |169|Easy|[Majority Element](https://leetcode.com/problems/majority-element/)|[Majority Element](week_2/169_majority-element)|
 |217|Easy|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Contains Duplicate](leetcode/217_contains-duplicate)|
+|266|Easy|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|
 |349|Easy|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Intersection of Two Arrays](leetcode/349_intersection-of-two-arrays)|
+|438|Medium|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|
 |705|Easy|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Design HashSet](leetcode/705_design-hashset)|
 |706|Easy|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Design HashMap](leetcode/706_design-hashmap)|
 |709|Easy|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[To Lower Case](leetcode/709_to-lower-case)|
+|771|Easy|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Jewels and Stones](leetcode/771_jewels-and-stones)|
 
 ## Sort
 | NO. | Difficulty | Title | Answer |
@@ -128,9 +139,11 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |62|Medium|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Unique Paths](leetcode/62_unique-paths)|
+|63|Medium|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|
 |64|Medium|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Minimum Path Sum](week_3/64_minimum-path-sum)|
 |70|Easy|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Climbing Stairs](week_4/70_climbing-stairs)|
 |91|Medium|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Decode Ways](week_3/91_decode-ways)|
+|120|Medium|[Triangle](https://leetcode.com/problems/triangle/)|[Triangle](https://leetcode.com/problems/triangle/)|
 |121|Easy|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](leetcode/121_best-time-to-buy-and-sell-stock)|
 |122|Easy|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](leetcode/122_best-time-to-buy-and-sell-stock-ii)|
 |198|Medium|[House Robber](https://leetcode.com/problems/house-robber/)|[House Robber](leetcode/198_house-robber)|
@@ -138,6 +151,8 @@
 |322|Medium|[Coin Change](https://leetcode.com/problems/coin-change/)|[Coin Change](leetcode/322_coin-change)|
 |621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
 |647|Medium|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](week_3/647_palindromic-substrings)|
+|729|Medium|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|
+|746|Easy|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|
 |1143|Medium|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Longest Common Subsequence](leetcode/1143_longest-common-subsequence)|
 
 ## Trier
@@ -161,6 +176,7 @@
 |190|Easy|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Reverse Bits](week_4/190_reverse-bits)|
 |191|Easy|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Number of 1 Bits](week_4/191_number-of-1-bits)|
 |231|Easy|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Power of Two](week_4/231_power-of-two)|
+|338|Easy|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Counting Bits](https://leetcode.com/problems/counting-bits/)|
 
 ## LRU
 | NO. | Difficulty | Title | Answer |
