@@ -1,0 +1,2 @@
+distinct paths: $dp[1] is 1, $dp[2] is 2 
+mini cost: $dp[1] is 0 as can start at stair 1, $dp[2] is 0 as can start at stair 2
