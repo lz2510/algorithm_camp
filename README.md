@@ -26,6 +26,7 @@
 |283|Easy|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Move Zeroes](leetcode/283_move-zeroes)|
 |485|Easy|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Max Consecutive Ones](leetcode/485_max-consecutive-ones)|
 |724|Easy|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Find Pivot Index](leetcode/724_find-pivot-index)|
+|729|Medium|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|
 |937|Easy|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|
 |977|Easy|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares of a Sorted Array](leetcode/977_squares-of-a-sorted-array)|
 |1089|Easy|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Duplicate Zeros](leetcode/1089_duplicate-zeros)|
@@ -57,8 +58,8 @@
 ## Greedy 
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
-|860|Easy|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Lemonade Change](week_2/860_emonade-change)|
 |621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
+|860|Easy|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Lemonade Change](week_2/860_emonade-change)|
 
 ## Hash
 | NO. | Difficulty | Title | Answer |
@@ -151,7 +152,6 @@
 |221|Medium|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Maximal Square](week_3/221_maximal-square)|
 |322|Medium|[Coin Change](https://leetcode.com/problems/coin-change/)|[Coin Change](leetcode/322_coin-change)|
 |647|Medium|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](week_3/647_palindromic-substrings)|
-|729|Medium|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|
 |746|Easy|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|
 |1143|Medium|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Longest Common Subsequence](leetcode/1143_longest-common-subsequence)|
 
