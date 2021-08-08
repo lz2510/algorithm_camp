@@ -58,6 +58,7 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |860|Easy|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Lemonade Change](week_2/860_emonade-change)|
+|621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
 
 ## Hash
 | NO. | Difficulty | Title | Answer |
@@ -149,7 +150,6 @@
 |198|Medium|[House Robber](https://leetcode.com/problems/house-robber/)|[House Robber](leetcode/198_house-robber)|
 |221|Medium|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Maximal Square](week_3/221_maximal-square)|
 |322|Medium|[Coin Change](https://leetcode.com/problems/coin-change/)|[Coin Change](leetcode/322_coin-change)|
-|621|Medium|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](week_3/621_task-scheduler)|
 |647|Medium|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](week_3/647_palindromic-substrings)|
 |729|Medium|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|
 |746|Easy|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|
