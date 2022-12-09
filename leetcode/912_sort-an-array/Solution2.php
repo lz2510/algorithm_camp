@@ -12,8 +12,8 @@ class Solution {
     public function mergeSortFunc(array &$arr, int $left, int $right): void
     {
         if ($left >= $right) return;
-        $mid = floor(($right + $left) / 2);
-        //$mid = $left + floor(($right - $left) / 2);
+        //$mid = floor(($right + $left) / 2); //$right + $left may exceed the biggest int, so below is better.
+        $mid = $left + floor(($right - $left) / 2);
         $this->mergeSortFunc($arr, $left, $mid);
         $this->mergeSortfunc($arr, $mid + 1, $right);
         $this->merge($arr, $left, $mid, $right);
