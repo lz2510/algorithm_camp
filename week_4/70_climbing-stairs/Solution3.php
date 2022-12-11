@@ -7,11 +7,7 @@ class Solution {
      * @return Integer
      */
     function climbStairs($n) {
-        if($n == 1){
-            return 1;
-        }elseif($n == 2){
-            return 2;
-        }
+        if ($n == 1) return 1;
         $dp = array();
         $dp[0] = 1;
         $dp[1] = 2;
@@ -21,3 +17,4 @@ class Solution {
         return $dp[$n-1];
     }
 }
+//https://leetcode.com/problems/climbing-stairs/solutions/2110965/easy-formula/?q=php&orderBy=most_relevant
