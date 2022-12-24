@@ -1,5 +1,22 @@
 # top K
 
+### approaches
+
+sort: NlogN
+heap: NlogK
+quick sort
+
+## count frequent
+
+### approach 1 is to use built-in array_count_values
+
+### approach 2 is to use array
+
+    $freqs = []; 
+    foreach ($nums as $num) { 
+        $freqs[$num] = isset($freqs[$num]) ? $freqs[$num] +1 : 1; 
+    } 
+
 ## if only keep num $k elements, value must be $n - $req, or it will pop up the first max
             
     $queue->insert($num, $n - $req);
