@@ -2,9 +2,11 @@
 
 ### approaches
 
-sort: NlogN
-heap: NlogK
-quick sort
+sort: NlogN  
+heap: NlogK  
+quick sort  
+
+heap is faster than sort, NlogK < NlogN when K < N
 
 ## count frequent
 
