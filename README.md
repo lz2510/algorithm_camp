@@ -104,6 +104,7 @@
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
 |33|Medium|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Search in Rotated Sorted Array](leetcode/33_search-in-rotated-sorted-array)|
+|50|Medium|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Pow(x, n)](leetcode/50_powx-n)|
 |69|Easy|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Sqrt(x)](leetcode/69_sqrtx)|
 |374|Easy|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Guess Number Higher or Lower](leetcode/374_guess-number-higher-or-lower)|
 |704|Easy|[Binary Search](https://leetcode.com/problems/binary-search/)|[Binary Search](leetcode/704_binary-search)|
