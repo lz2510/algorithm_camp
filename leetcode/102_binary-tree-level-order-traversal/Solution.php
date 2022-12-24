@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Definition for a binary tree node.
  * class TreeNode {
@@ -15,26 +13,29 @@
  * }
  */
 class Solution {
-	public $result = [];
+    private array $result = [];
 
-	/**
-	 * @param TreeNode $root
-	 * @return Integer[][]
-	 */
-	function levelOrder($root) {
-		$this->result = [];
-		$this->helper($root,0);
-		return $this->result;
-	}
+    /**
+     * @param TreeNode $root
+     * @return Integer[][]
+     */
+    function levelOrder($root) {
+        $this->dfs($root, 0);
+        return $this->result;
+    }
 
-	function helper($node,$level){
-		if($node){
-			$this->result[$level][] = $node->val;
-			$level++;
-			$this->helper($node->left,$level);
-			$this->helper($node->right,$level);
-			$level--;
-		}
+    private function dfs($node, int $level): void
+    {
+        if (!$node) {
+            return;
+        }
+        $this->result[$level][] = $node->val;
+        $this->dfs($node->left, $level + 1);
+        $this->dfs($node->right, $level + 1);  
 
-	}
+        //below are wrong, as change $level value but not reverse. 
+        //right way is drill down but not change $level, $level + 1
+        //$this->dfs($node->left, $level++);
+        //$this->dfs($node->right, $level++);      
+    }
 }
