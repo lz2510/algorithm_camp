@@ -1,32 +1,30 @@
 <?php
+class Solution {
+    private int $k;
+    private array $output;
+    /**
+     * @param Integer[] $nums
+     * @return Integer[][]
+     */
+    function subsets($nums) {
+        for ($i = 0; $i < count($nums) + 1; $i++) {
+            $this->k = $i;
+            $this->backTrack(0, [], $nums);
+        }
+        return $this->output;
+    }
 
+    private function backTrack(int $first, array $curr, array $nums): void
+    {
+        if (count($curr) == $this->k) {
+            $this->output[] = $curr;
+            return;
+        }
 
-class Solution
-{
-	private $output = [];
-	private $k;
-
-	/**
-	 * @param Integer[] $nums
-	 * @return Integer[][]
-	 */
-	function subsets($nums) {
-		for($k=0; $k< count($nums)+1; $k++){
-			$this->k = $k;
-			$this->backtrack(0,[],$nums);
-		}
-		return $this->output;
-	}
-
-	function backtrack($first, $cur, $nums){
-		if(count($cur) == $this->k){
-			$this->output[] = $cur;
-			return;
-		}
-		for($i=$first; $i<count($nums); $i++){
-			$cur[] = $nums[$i];
-			$this->backtrack($i+1,$cur,$nums);
-			array_pop($cur);
-		}
-	}
+        for ($i = $first; $i < count($nums); $i++) {
+            $curr[] = $nums[$i];
+            $this->backTrack($i + 1, $curr, $nums);
+            array_pop($curr);
+        }
+    }
 }
