@@ -45,7 +45,7 @@
 ## Two pointers
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
-|167|Medium|[Two Sum II - Input Array Is Sorted]([https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/))|[Two Sum II - Input Array Is Sorted](leetcode/167_mtwo-sum-ii-input-array-is-sorted)|
+|167|Medium|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Two Sum II - Input Array Is Sorted](leetcode/167_mtwo-sum-ii-input-array-is-sorted)|
 
 ## Stack
 | NO. | Difficulty | Title | Answer |
