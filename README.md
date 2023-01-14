@@ -42,6 +42,11 @@
 |206|Easy|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|
 |707|Medium|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Design Linked List](leetcode/707_design-linked-list)|
 
+## Two pointers
+| NO. | Difficulty | Title | Answer |
+| --- | --- | --- | --- |
+|167|Medium|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Two Sum II - Input Array Is Sorted](leetcode/167_mtwo-sum-ii-input-array-is-sorted)|
+
 ## Stack
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
