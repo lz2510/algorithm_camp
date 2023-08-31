@@ -1,5 +1,7 @@
 # algorithm_camp
 
+For leetcode.
+
 ## String
 | NO. | Difficulty | Title | Answer |
 | --- | --- | --- | --- |
